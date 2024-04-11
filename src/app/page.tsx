@@ -5,7 +5,7 @@ const Home = () => {
     <main>
       <section>
         <div className="container-sm">
-          <h1 className={styles.title}>Hello World</h1>
+          <h1 className={styles.title}>Test import</h1>
         </div>
       </section>
     </main>
