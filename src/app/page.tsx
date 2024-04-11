@@ -4,6 +4,9 @@ import styles from "./page.module.css";
 export default function Home() {
   return (
     <main className={styles.main}>
+      <section className="nextjs-deploy-error">
+        <h1 className="text-decoration-underline">NextJS Deploy Error</h1>
+      </section>
       <div className={styles.description}>
         <p>
           Get started by editing&nbsp;
